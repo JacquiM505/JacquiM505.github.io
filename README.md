@@ -2,7 +2,7 @@
 
 ## Projects
 
-* Test Project 1
+* Test Project 1 I rule!!!
 
 * Test Project 2
 
